@@ -51,3 +51,7 @@ py -m unittest discover -s tests
 The tests use counter readings shaped like real ones, fake AI servers, and one live read-only reading of the PC they run on.
 
 MIT License.
+
+## More tools
+
+Made by [jtclone22-coder](https://github.com/jtclone22-coder): more free Windows tools are on that profile, and paid ones (DevSweep, Overnight, AssetAtlas) are on [Gumroad](https://clonemaster152.gumroad.com).
